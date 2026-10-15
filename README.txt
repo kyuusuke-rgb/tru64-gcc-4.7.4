@@ -1,4 +1,4 @@
-C 4.7.4 for Tru64 UNIX (OSF/1 5.1b) - Binary Package
+GCC 4.7.4 for Tru64 UNIX (OSF/1 5.1b) - Binary Package
  Target: alphaev56-dec-osf5.1b
 ===================================================================
 
